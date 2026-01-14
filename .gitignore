@@ -13,3 +13,11 @@ __pycache__/
 data/raw/
 data/processed/
 
+# macOS junk
+.DS_Store
+
+# Raw data
+Data_Diabetes_Prediction/Raw/*.csv
+Data_Diabetes_Prediction/Raw/.DS_Store
+
+
