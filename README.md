@@ -53,6 +53,12 @@ Two supervised learning models were trained and compared:
 
 ## Model Evaluation
 
+#### ROC Curve Comparison
+![ROC Curve](Outputs/Figures/roc_curve_comparison.png)
+
+#### Precision-Recall Curve
+![Precision-Recall Curve](Outputs/Figures/pr_curve_comparison.png)
+
 Because diabetes onset is a high-stakes outcome, evaluation focused on **recall-first threshold tuning**.
 
 ### Best Performance (Random Forest)
