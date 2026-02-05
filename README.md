@@ -97,8 +97,8 @@ Threshold adjustment was used to balance:
 │   └── 06_Evaluation.ipynb
 │
 ├── Data/
-│   ├── raw/
-│   └── cleaned/
+│   ├── Raw/
+│   └── Cleaned/
 │
 ├── Artifacts/
 │   ├── Models/
